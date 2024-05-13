@@ -17,4 +17,18 @@
       <UniqueIdentifier>{1501cd1e-fd88-4218-9129-13c674b16546}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter1\01_Array.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter1\Activity1.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter1\Exercise1.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter1\Exercise2.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
